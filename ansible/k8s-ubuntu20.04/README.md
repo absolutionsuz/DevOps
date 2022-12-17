@@ -1,4 +1,4 @@
-# ansible playbook for automated installation kubernetes on ubuntu 20.04 server with two workers and a master node
+# Ansible playbook for automated installation Kubernetes on ubuntu 20.04 server with two workers and a master node
 
 ## Install ansible on master node
 
